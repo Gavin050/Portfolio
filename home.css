@@ -1,0 +1,112 @@
+.head1 {
+    color: black;
+    position: relative;
+    left: 100px;
+    top: 25px;
+    font-size: xx-large;
+}
+
+.homebut {
+    position: relative;
+    top: -40px;
+    left: 1000px;
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+    padding: 12px 28px;
+    border-radius: 6%;
+}
+
+.homebut:hover {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+}
+
+.aboutbut {
+    position: relative;
+    top: -40px;
+    left: 1000px;
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+    padding: 12px 28px;
+    border-radius: 6%;
+}
+
+.aboutbut:hover {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+}
+
+.servicebut {
+    position: relative;
+    top: -40px;
+    left: 1000px;
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+    padding: 12px 28px;
+    border-radius: 6%;
+}
+
+.servicebut:hover {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+}
+
+.contactbut {
+    position: relative;
+    top: -40px;
+    left: 1000px;
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+    padding: 12px 28px;
+    border-radius: 6%;
+}
+
+.contactbut:hover {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+}
+
+.lineColor {
+    background-color: black;
+}
+
+.head2 {
+    position: relative;
+    text-align: center;
+    top: 100px;
+}
+
+.p1 {
+    position: relative;
+    left: 626px;
+    top: 90px;
+    font-size: larger;
+}
+
+.abtbut {
+    position: relative;
+    left: 710px;
+    top: 80px;
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+    padding: 12px 28px;
+    border-radius: 6%;
+}
+
+.abtbut:hover {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+}
+
+.nav {
+    background-color: #f2f2f2;
+    position: relative;
+    top: -30px;
+    left: -30px;
+    width: 2000px;
+}
