@@ -84,11 +84,187 @@
 
 .abt1 {
     position: relative;
-    text-align: center;
+    left: 220px;
 }
 
 .line2 {
     position: relative;
-    width: 70px;
+    width: 100px;
     top: -10px;
+    left: -459px;
+    border: 1px solid black;
+}
+
+.mypicture {
+    position: relative;
+    width: auto;
+    height: 250px;
+    border-radius: 15%;
+    left: 0px;
+}
+
+.div1 {
+    background-color: white;
+    position: relative;
+    width: 1200px;
+    height: 500px;
+    left: 200px;
+}
+
+.name {
+    position: relative;
+    top: -480px;
+    left: 400px;
+}
+
+.loc {
+    position: relative;
+    top: -465px;
+    left: 400px;
+}
+
+.ema {
+    position: relative;
+    top: -450px;
+    left: 400px;
+}
+
+.vertical {
+    border-left: 1px solid black;
+    height: 200px;
+    position: relative;
+    left: 680px;
+    top: -620px;
+}
+
+.skillS {
+    position: relative;
+    top: -665px;
+    left: 482px;
+}
+
+.container {
+    background-color: rgb(192, 192, 192);
+    width: 350px;
+    border-radius: 15px;
+    position: relative;
+    top: -630px;
+    left: 275px;
+}
+
+.skill {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+    padding: 1%;
+    text-align: left;
+    font-size: 20px;
+    position: relative;
+    width: 80%;
+    top: .5px;
+    left: 1px;
+    border-radius: 15px;
+}
+
+.HTMLper {
+    position: relative;
+    top: -700px;
+    left: 285px;
+}
+
+.CSSper {
+    position: relative;
+    top: -700px;
+    left: 285px;
+}
+
+
+
+.skillCSS {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+    padding: 1%;
+    text-align: left;
+    font-size: 20px;
+    position: relative;
+    width: 65%;
+    top: -.1px;
+    left: 1px;
+    border-radius: 15px;
+}
+
+.JVper {
+    position: relative;
+    top: -700px;
+    left: 285px;
+}
+
+.skillJV {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+    padding: 1%;
+    text-align: left;
+    font-size: 20px;
+    position: relative;
+    width: 30%;
+    top: -0px;
+    left: 1px;
+    border-radius: 15px;
+}
+
+.vertical2 {
+    border-left: 1px solid black;
+    height: 297px;
+    position: relative;
+    left: 680px;
+    top: -1000px;
+}
+
+.abtLine {
+    position: relative;
+    top: -1500px;
+    left: 710px;
+}
+
+.abt2 {
+    position: relative;
+    top: -1515px;
+    left: 20px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.aboutpara {
+    position: relative;
+    top: -1520px;
+    left: 725px;
+}
+
+.servbut {
+    position: relative;
+    left: 965px;
+    top: -1425px;
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+    padding: 12px 28px;
+    border-radius: 6%;
+}
+
+.servbut:hover {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+}
+
+.myserv {
+    position: relative;
+    top: -1530px;
+    left: 954px;
+}
+
+.servline {
+    position: relative;
+    top: -1545px;
+    left: 260px;
+    width: 120px;
+    transform: scaleY(1);
 }
