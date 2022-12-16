@@ -1,0 +1,168 @@
+.head1 {
+    color: black;
+    position: relative;
+    left: 100px;
+    top: 25px;
+    font-size: xx-large;
+}
+
+.homebut {
+    position: relative;
+    top: -40px;
+    left: 1000px;
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+    padding: 12px 28px;
+    border-radius: 6%;
+}
+
+.homebut:hover {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+}
+
+.aboutbut {
+    position: relative;
+    top: -40px;
+    left: 1000px;
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+    padding: 12px 28px;
+    border-radius: 6%;
+}
+
+.aboutbut:hover {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+}
+
+.servicebut {
+    position: relative;
+    top: -40px;
+    left: 1000px;
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+    padding: 12px 28px;
+    border-radius: 6%;
+}
+
+.servicebut:hover {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+}
+
+.contactbut {
+    position: relative;
+    top: -40px;
+    left: 1000px;
+    background-color: white;
+    color: black;
+    border: 2px solid gray;
+    padding: 12px 28px;
+    border-radius: 6%;
+}
+
+.contactbut:hover {
+    background-color: rgba(48, 44, 44, 0.774);
+    color: white;
+}
+
+.lineColor {
+    background-color: black;
+}
+
+.nav {
+    background-color: #f2f2f2;
+    position: relative;
+    top: -30px;
+    left: -30px;
+    width: 2000px;
+}
+
+.headO {
+    position: relative;
+    text-align: center;
+    top: -25px;
+}
+
+.line2 {
+    position: relative;
+    top: -35px;
+    align-items: center;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.fName {
+    position: relative;
+    top: -20px;
+    left: 349px;
+    width: 380px;
+}
+
+.eMail {
+    position: relative;
+    top: -20px;
+    left: 349px;
+    width: 380px;
+}
+
+.uInput {
+    position: relative;
+    top: -20px;
+    left: 349px;
+}
+
+.line3 {
+    position: relative;
+    width: 0px;
+    height: 300px;
+    top: -300px;
+    left: 5px;
+    border: .5px solid black;
+}
+
+.pinLocation {
+    position: relative;
+    bottom: 595px;
+    left: 805px;
+    width: 65px;
+    height: auto;
+}
+
+.callPoint {
+    position: relative;
+    bottom: 500px;
+    left: 740px;
+    height: auto;
+    width: 60px;
+}
+
+.emailPoint {
+    position: relative;
+    bottom: 400px;
+    left: 680px;
+    height: auto;
+    width: 60px;
+}
+
+.locAddi {
+    position: relative;
+    bottom: 660px;
+    left: 880px;
+}
+
+.phonNum {
+    position: relative;
+    bottom: 605px;
+    left: 880px;
+}
+
+.myEmail {
+    position: relative;
+    bottom: 545px;
+    left: 880px;
+}
